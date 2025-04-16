@@ -5,3 +5,4 @@
 - [ ] System dark mode
 - [x] Add a section about kanshi to Sway
 - [ ] Fix that kanshi is not applied after applying new Sway config with $mod+Shift+c
+- [ ] Find or invent the command `ls-or-cat`
