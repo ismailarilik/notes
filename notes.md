@@ -9,3 +9,5 @@
 - [ ] Network indicator in status bar
 - [ ] Remove titlebar from applications
 - [ ] Fix that Delete key puts tilde in terminal (~)
+- [ ] Alias for emacsclient as emacs
+- [ ] Colorize battery status
