@@ -11,3 +11,4 @@
 - [ ] Fix that Delete key puts tilde in terminal (~)
 - [ ] Alias for emacsclient as emacs
 - [ ] Colorize battery status
+- [ ] Mute leds is not working while connecting to Bluetooth headset
