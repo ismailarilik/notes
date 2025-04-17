@@ -8,3 +8,4 @@
 - [ ] Find or invent the command `ls-or-cat`
 - [ ] Network indicator in status bar
 - [ ] Remove titlebar from applications
+- [ ] Fix that Delete key puts tilde in terminal (~)
