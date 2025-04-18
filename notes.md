@@ -13,3 +13,4 @@
 - [ ] Colorize battery status
 - [ ] Mute leds is not working while connecting to Bluetooth headset
 - [ ] Show bluetooth connection status in statusbar
+- [ ] Check reflector development status
