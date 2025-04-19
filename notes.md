@@ -1,20 +1,43 @@
 # Notes
 
+## Core utilities
+
+- [ ] Find or invent the command `ls-or-cat`
+
+## Emacs
+
+- [ ] Emacs doesn't respect the .editorconfig in home directory; fix this
+- [x] Alias for emacsclient as emacs
+
+## pacman
+
 - [ ] Drop-in pacman config file for NoExtract option
 - [ ] Make the NoExtract string under pacman hook section in Reflector article, precise; it is etc/pacman.d/mirrorlist
+- [ ] Check reflector development status
+
+## Sound
+
+- [ ] Mute leds are not working while connecting to Bluetooth headset
+
+## Sway
+
+- [ ] Remove titlebar from applications
+
+### Display
+
 - [ ] System dark mode
 - [ ] Make color temperature adjustment work (https://wiki.archlinux.org/title/Sway#Color_temperature_adjustment)
-- [x] Add a section about kanshi to Sway
 - [ ] Fix that kanshi is not applied after applying new Sway config with $mod+Shift+c
-- [ ] Find or invent the command `ls-or-cat`
+- [x] Add a section about kanshi to Sway
+
+### Status bar
+
 - [ ] Network indicator in status bar
-- [ ] Remove titlebar from applications
-- [ ] Fix that Delete key puts tilde in terminal (~)
-- [x] Alias for emacsclient as emacs
 - [ ] Colorize battery status
-- [ ] Mute leds is not working while connecting to Bluetooth headset
 - [ ] Show bluetooth connection status in statusbar
-- [ ] Check reflector development status
+
+## Zsh
+
+- [ ] Fix that Delete key puts tilde in terminal (~)
 - [ ] Zsh in the second footclient does not have autosuggestions
 - [ ] Make Zsh autosuggestions suggest things WRT the current directory
-- [ ] Emacs doesn't respect the .editorconfig in home directory; fix this
