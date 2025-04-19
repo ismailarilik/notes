@@ -39,5 +39,10 @@
 ## Zsh
 
 - [x] Fix that Delete key puts tilde in terminal (~)
+
+### Autosuggestions
+
 - [ ] Zsh in the second footclient does not have autosuggestions
 - [ ] Make Zsh autosuggestions suggest things WRT the current directory
+- [ ] Find a way to select the first word instead of the whole command when autosuggestion suggested a command
+- [ ] Make autosuggestion work even if the given word is not matched in order
