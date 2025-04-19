@@ -38,6 +38,6 @@
 
 ## Zsh
 
-- [ ] Fix that Delete key puts tilde in terminal (~)
+- [x] Fix that Delete key puts tilde in terminal (~)
 - [ ] Zsh in the second footclient does not have autosuggestions
 - [ ] Make Zsh autosuggestions suggest things WRT the current directory
