@@ -1,5 +1,7 @@
 # Notes
 
+Read after https://wiki.archlinux.org/title/General_recommendations#Power_management
+
 ## Core utilities
 
 - [ ] Find or invent the command `ls-or-cat`
