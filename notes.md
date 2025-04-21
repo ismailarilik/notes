@@ -14,6 +14,7 @@
 - [ ] Drop-in pacman config file for NoExtract option
 - [ ] Make the NoExtract string under pacman hook section in Reflector article, precise; it is etc/pacman.d/mirrorlist
 - [ ] Check reflector development status
+- [ ] Read https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Removing_unused_packages_(orphans)
 
 ## Sound
 
@@ -22,6 +23,7 @@
 ## Sway
 
 - [ ] Remove titlebar from applications
+- [ ] Read https://wiki.archlinux.org/title/Sway#Control_swaynag_with_the_keyboard
 
 ### Display
 
