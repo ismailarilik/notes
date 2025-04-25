@@ -123,3 +123,7 @@ usage: git add [<options>] [--] <pathspec>...
     --pathspec-from-file <file> read pathspec from file
     --pathspec-file-nul         with --pathspec-from-file, pathspec elements are separated with NUL character
 ```
+
+## To-dos
+
+- Read after https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
